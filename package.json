@@ -1,0 +1,25 @@
+{
+  "name": "cypresscourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielnascimento2048/cypressCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielnascimento2048/cypressCourse/issues"
+  },
+  "homepage": "https://github.com/gabrielnascimento2048/cypressCourse#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0",
+    "faker": "^4.1.0"
+
+  }
+}
