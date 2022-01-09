@@ -19,7 +19,6 @@
   "homepage": "https://github.com/gabrielnascimento2048/cypressCourse#readme",
   "devDependencies": {
     "cypress": "^9.2.0",
-    "faker": "^4.1.0"
-
+    "faker": "^5.5.3"
   }
 }
