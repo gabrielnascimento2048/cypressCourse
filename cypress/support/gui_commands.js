@@ -29,3 +29,16 @@ Cypress.Commands.add('gui_createIssue', issue => {
     cy.get('.qa-issuable-form-description').type(issue.description)
     cy.contains('Submit issue').click()
 })
+
+
+Cypress.Commands.add('gui_setLabelOnIssue', label => {
+    cy.get('.qa-edit-link-labels').click()
+    cy.contains(label.name).click()
+    cy.get('body').click()
+})
+
+Cypress.Commands.add('gui_setMilestoneOnIssue', milestone => {
+    
+    cy.get('.qa-milestone-title').type(milestone.title)
+    cy.get('.qa-milestone-create-button').click()
+})
