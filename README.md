@@ -26,3 +26,4 @@ Then, execute the command.
 }
 </code></pre>
 
+details about how generate ssh key: http://localhost/help/ssh/README#generating-a-new-ssh-key-pair
