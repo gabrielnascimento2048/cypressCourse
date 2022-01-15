@@ -1,5 +1,5 @@
 # cypressCourse
-
+This project used cypress with js for Test gitlab-ce, run against docker image and generate random data with faker.js.  
 Close container 
 
 Open cmd and write:
@@ -14,7 +14,7 @@ Then, execute the command.
 
 
 
-> Note: After shut down the image, If want to run again run this <pre><code>`docker run --publish 80:80 --publish 22:22 --hostname localhost wlsf82/gitlab-ce`</code></pre>
+> Note: After shut down the image, If want to run again exec this: <pre><code>`docker run --publish 80:80 --publish 22:22 --hostname localhost wlsf82/gitlab-ce`</code></pre>
 > waiting loading environment, then open  http://localhost/, for define pass and user <strong>root</strong>. 
 > 
 <p>Don't forget to set up <strong>cypress.env.json</strong> with :</p>
