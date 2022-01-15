@@ -16,7 +16,7 @@ Then, execute the command.
 
 
 
-> Note: After shut down the image, If want to run again exec this: <pre><code>`docker run --publish 80:80 --publish 22:22 --hostname localhost wlsf82/gitlab-ce`</code></pre>
+> WARNING: After shut down the image, If want to run again exec this: <pre><code>`docker run --publish 80:80 --publish 22:22 --hostname localhost wlsf82/gitlab-ce`</code></pre>
 > waiting loading environment, then open  http://localhost/, for define pass and user <strong>root</strong>. 
 > 
 <p>Don't forget to set up <strong>cypress.env.json</strong> with :</p>
@@ -31,4 +31,4 @@ Then, execute the command.
 details about how generate ssh key and access-token: http://localhost/help/ssh/README#generating-a-new-ssh-key-pair
 
 
-About Community have this project using cypress for test e2e -> https://github.com/mattermost/mattermost-webapp/tree/master/e2e
+>NOTE: About Community have this project using cypress for test e2e -> https://github.com/mattermost/mattermost-webapp/tree/master/e2e
