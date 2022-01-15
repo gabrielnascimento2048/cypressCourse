@@ -21,7 +21,7 @@ Then, execute the command.
 
 <pre><code>{
     "user_name": "root",
-    "user_password": "password,
+    "user_password": "password",
     "gitlab_access_token": "access-token-TBD"
 }
 </code></pre>
