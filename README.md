@@ -21,9 +21,9 @@ Then, execute the command.
 
 <pre><code>{
     "user_name": "root",
-    "user_password": "password-do-usuario-root-definido-anteriormente",
-    "gitlab_access_token": "access-token-criado-anteriormente"
+    "user_password": "password,
+    "gitlab_access_token": "access-token-TBD"
 }
 </code></pre>
 
-details about how generate ssh key: http://localhost/help/ssh/README#generating-a-new-ssh-key-pair
+details about how generate ssh key and access-token: http://localhost/help/ssh/README#generating-a-new-ssh-key-pair
