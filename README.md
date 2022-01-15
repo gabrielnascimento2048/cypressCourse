@@ -29,3 +29,6 @@ Then, execute the command.
 </code></pre>
 
 details about how generate ssh key and access-token: http://localhost/help/ssh/README#generating-a-new-ssh-key-pair
+
+
+About Community have this project using cypress for test e2e -> https://github.com/mattermost/mattermost-webapp/tree/master/e2e
