@@ -1,6 +1,6 @@
 # cypressCourse
-This project used cypress with js for Test gitlab-ce, run against docker image and generate random data with faker.js.  
-Using differents techniques gui, api and cli. 
+This project used cypress with js for Test gitlab-ce, run against docker image and generate random data with faker.js,using differents techniques gui, api and cli. 
+
 
 Close container 
 
