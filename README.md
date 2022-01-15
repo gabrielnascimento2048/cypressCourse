@@ -1,4 +1,4 @@
-# cypressCourse
+# Cypress - Gitlab Tests UI and Backend
 This project used cypress with js for Test gitlab-ce, run against docker image and generate random data with faker.js,using differents techniques gui, api and cli. 
 
 
