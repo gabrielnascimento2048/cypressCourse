@@ -1,6 +1,8 @@
 # Cypress - Gitlab Tests UI and Backend
 This project used cypress with js for Test gitlab-ce, run against docker image and generate random data with faker.js,using differents techniques gui, api and cli. 
 
+>Base documentation: https://docs.cypress.io/guides/overview/why-cypress
+
 
 Close container 
 
@@ -31,6 +33,8 @@ Then, execute the command.
 details about how generate ssh key and access-token: http://localhost/help/ssh/README#generating-a-new-ssh-key-pair
 
 
->NOTE: About Community have this project using cypress for test e2e -> https://github.com/mattermost/mattermost-webapp/tree/master/e2e
+>NOTE: 
+>
+>About Community have this project using cypress for test e2e -> https://github.com/mattermost/mattermost-webapp/tree/master/e2e
 >
 >Next steps: https://github.com/wlsf82/gitlab-cypress
