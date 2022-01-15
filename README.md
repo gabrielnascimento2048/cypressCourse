@@ -32,3 +32,5 @@ details about how generate ssh key and access-token: http://localhost/help/ssh/R
 
 
 >NOTE: About Community have this project using cypress for test e2e -> https://github.com/mattermost/mattermost-webapp/tree/master/e2e
+>
+>Next steps: https://github.com/wlsf82/gitlab-cypress
